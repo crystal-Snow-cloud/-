@@ -18,9 +18,9 @@ README.md
 | 0 | 退出程序 | ✅ 已实现 |
 
 ## 📦 项目结构
-PhoneBook/
-├── data/                   # 汉字转拼音字典文件夹（运行必需）
-├── res/                    # MFC资源文件
+PhoneBook/    /n
+├── data/                   # 汉字转拼音字典文件夹（运行必需）/n
+├── res/                    # MFC资源文件/n
 ├── x64/                    # 编译输出目录
 ├── Contact.h / Contact.cpp # 联系人实体类
 ├── Trie.h / Trie.cpp       # Trie字典树实现
